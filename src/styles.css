@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.addfruit {
+  padding: 4px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: greenyellow;
+  border-style: none;
+  cursor: pointer;
+}
+.fruitheading {
+  color: brown;
+  font-family: "Baloo Bhai 2", cursive;
+  font-size: 30px;
+  position: relative;
+  top: -50px;
+}
+.fruitable {
+  margin-left: 650px;
+}
+body {
+  background-color: #fef8dd;
+}
+.inputfruit {
+  padding: 6px;
+  width: 600px;
+}
+
+.incbutton {
+  margin: 7px;
+  background-color: #caf1de;
+  border-style: none;
+  width: 30px;
+  height: 30px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.decbutton {
+  background-color: #e53935;
+  border-style: none;
+  width: 30px;
+  height: 30px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.addfruitform {
+  position: absolute;
+  left: 50px;
+  top: 120px;
+}
